@@ -3,7 +3,6 @@
 - 👋 Hi, I’m @Nurzaman-Nuru
 - Studying at Green University of Bangladesh
 - 👀 I’m interested in Web Development
-- 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20now-0A66C2?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nurzamanportfolio.vercel.app/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuruzzaman2222/)
