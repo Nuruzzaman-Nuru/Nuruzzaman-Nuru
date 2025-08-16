@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Nurzaman-Nuru
+- Studying at Green University of Bangladesh
 - 👀 I’m interested in Web Development 
   Welcome to my GitHub
 
