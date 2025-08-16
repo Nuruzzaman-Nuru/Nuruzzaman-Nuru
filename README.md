@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nurzaman-Nuru
 - 👀 I’m interested in Web Development 
-  Welcome to my portfolio!
+  Welcome to my GitHub
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20now-0A66C2?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nurzamanportfolio.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nuruzzaman2222/)
