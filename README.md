@@ -1,6 +1,6 @@
 [![Welcome to my GitHub!](https://img.shields.io/badge/Welcome%20to%20my%20GitHub!-0099ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuruzzaman-Nuru)
 
-- 👋 Hi, I’m @Nurzaman-Nuru  
+-  Hi, I’m Nurzaman-Nuru  
 - 🎓 Studying at Green University of Bangladesh  
 - 👀 I’m interested in Web Development  
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20now-0A66C2?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nurzamanportfolio.vercel.app/)
