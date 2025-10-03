@@ -2,7 +2,7 @@
 
 -  Hi, I’m Nurzaman-Nuru  
 - 🎓 Studying at Green University of Bangladesh  
-- 👀 I’m interested in Web Development  
+- 👀 I’m interested in Full Stack Developer.  
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit%20now-0A66C2?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nurzamanportfolio.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nurzaman-7b9858262/)
