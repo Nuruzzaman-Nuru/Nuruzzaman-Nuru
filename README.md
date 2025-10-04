@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nurzaman-7b9858262/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nuruzzaman-Nuru)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nuruzzaman6868/)
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuruzzaman-Nuru&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Nuruzzaman-Nuru" align="center" height=200/>
