@@ -5,13 +5,6 @@
        alt="MD.Nurzaman" width="250" 
        style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
-
--  Hi, I’m Nurzaman-Nuru  
-- 🎓 Studying at Green University of Bangladesh.
-- I’m interested in pursuing a career as a Full Stack Developer, and I’m also passionate about Machine Learning (ML) and Deep Learning (DL).
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit%20now-0A66C2?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://nurzamanportfolio.vercel.app/)
-
 -  Hi, I’m Nurzaman-Nuru  
 - 🎓 Studying at Green University of Bangladesh.
 - I’m interested in pursuing a career as a Full Stack Developer, and I’m also passionate about Machine Learning (ML) and Deep Learning (DL).
