@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Nuruzzaman-Nuru/nuruzzaman-nuru/blob/main/MD.Nurzaman-Web%20Developer.png" 
-       alt="MD.Nurzaman" width="250" 
+       alt="MD.Nurzaman" width="1200" 
        style="border-radius:50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
 </p>
 -  Hi, I’m Nurzaman-Nuru  
